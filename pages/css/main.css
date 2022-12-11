@@ -80,7 +80,9 @@ body{
     background-size: cover;
     font-weight: 200;
     font-size: larger;
-    color: white;
+    color: black;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 0.5px;
 }
 
 /* CSS for boards page */
